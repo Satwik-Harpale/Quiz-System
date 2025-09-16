@@ -1,0 +1,2 @@
+Java123:Java:Object Oriented Programming:10
+GK100:GK:General Knowledge:5
